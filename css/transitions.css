@@ -15,6 +15,11 @@ opacity
 body {
     background: #DCDCDC;
   }
+  a{
+    color: #2F0808;
+    text-decoration: none;
+  }
+  
   .contenedor {
     margin: 0 auto;
     width: 600px;
@@ -32,7 +37,7 @@ body {
   .caja {
     width: 200px;
     height: 200px;
-    border: 1px solid #000000;
+    border: 1px solid black;
   }
   
   .opacity {
